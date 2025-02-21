@@ -1,0 +1,41 @@
+﻿id: speakers
+name:
+  en-US: Speakers
+description:
+  en-US: ''
+fields:
+- id: text
+  name:
+    en-US: Text
+  type: LongText
+  required: false
+  helpText:
+    en-US: ''
+- id: image
+  name:
+    en-US: Image
+  type: Media
+  required: false
+  helpText:
+    en-US: ''
+- id: speakertitle
+  name:
+    en-US: SpeakerTitle
+  type: ShortText
+  required: false
+  helpText:
+    en-US: ''
+- id: speakertext
+  name:
+    en-US: SpeakerText
+  type: ShortText
+  required: false
+  helpText:
+    en-US: ''
+- id: featurecards
+  name:
+    en-US: FeatureCards
+  type: Reference
+  required: false
+  helpText:
+    en-US: ''

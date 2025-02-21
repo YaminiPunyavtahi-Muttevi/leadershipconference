@@ -1,0 +1,20 @@
+﻿id: tabs
+name:
+  en-US: Tabs
+description:
+  en-US: ''
+fields:
+- id: navtabs
+  name:
+    en-US: NavTabs
+  type: Reference
+  required: false
+  helpText:
+    en-US: ''
+- id: navtabscontent
+  name:
+    en-US: NavTabsContent
+  type: Reference
+  required: false
+  helpText:
+    en-US: ''

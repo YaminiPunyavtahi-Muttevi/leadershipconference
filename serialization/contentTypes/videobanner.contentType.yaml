@@ -1,0 +1,13 @@
+﻿id: videobanner
+name:
+  en-US: VideoBanner
+description:
+  en-US: ''
+fields:
+- id: highlightssection
+  name:
+    en-US: HighlightsSection
+  type: Reference
+  required: false
+  helpText:
+    en-US: ''

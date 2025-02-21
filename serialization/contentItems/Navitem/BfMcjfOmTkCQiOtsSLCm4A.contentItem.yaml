@@ -1,0 +1,9 @@
+﻿id: BfMcjfOmTkCQiOtsSLCm4A
+name: Venue
+fields:
+  navname:
+    value: Venue
+    type: ShortText
+  navlink:
+    value: /page#section_6
+    type: ShortText

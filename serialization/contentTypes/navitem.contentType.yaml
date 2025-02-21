@@ -1,0 +1,20 @@
+﻿id: navitem
+name:
+  en-US: NavItem
+description:
+  en-US: 'This type is used for navigation. '
+fields:
+- id: navname
+  name:
+    en-US: NavName
+  type: ShortText
+  required: false
+  helpText:
+    en-US: ''
+- id: navlink
+  name:
+    en-US: NavLink
+  type: ShortText
+  required: false
+  helpText:
+    en-US: ''

@@ -1,0 +1,9 @@
+﻿id: -nHRoS4-tEyPSF6sq6xK6A
+name: Pricing
+fields:
+  navname:
+    value: Pricing
+    type: ShortText
+  navlink:
+    value: /page#section_5
+    type: ShortText

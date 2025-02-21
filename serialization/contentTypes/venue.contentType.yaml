@@ -1,0 +1,41 @@
+﻿id: venue
+name:
+  en-US: Venue
+description:
+  en-US: ''
+fields:
+- id: maplink
+  name:
+    en-US: MapLink
+  type: ShortText
+  required: false
+  helpText:
+    en-US: ''
+- id: venuetext
+  name:
+    en-US: VenueText
+  type: ShortText
+  required: false
+  helpText:
+    en-US: ''
+- id: venueinfo
+  name:
+    en-US: VenueInfo
+  type: ShortText
+  required: false
+  helpText:
+    en-US: ''
+- id: venueemail
+  name:
+    en-US: VenueEmail
+  type: ShortText
+  required: false
+  helpText:
+    en-US: ''
+- id: venuenumber
+  name:
+    en-US: VenueNumber
+  type: ShortText
+  required: false
+  helpText:
+    en-US: ''

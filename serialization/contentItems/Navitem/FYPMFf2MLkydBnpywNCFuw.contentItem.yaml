@@ -1,0 +1,9 @@
+﻿id: FYPMFf2MLkydBnpywNCFuw
+name: Speakers
+fields:
+  navname:
+    value: Speakers
+    type: ShortText
+  navlink:
+    value: /page#section_3
+    type: ShortText

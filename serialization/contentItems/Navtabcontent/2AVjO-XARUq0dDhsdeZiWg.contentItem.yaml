@@ -1,0 +1,41 @@
+﻿id: 2AVjO-XARUq0dDhsdeZiWg
+name: Maintaining a successful business
+fields:
+  tabtext:
+    value: Maintaining a successful business
+    type: ShortText
+  tabdescription:
+    value: Quisque mollis, ante non semper ultricies, nulla sapien sollicitudin augue, id scelerisque nunc turpis nec urna. Class aptent taciti sociosqu.
+    type: LongText
+  speakertext:
+    value: Isabella
+    type: ShortText
+  speakertitle:
+    value: Event Manager
+    type: ShortText
+  eventtime:
+    value: 2023-08-25T11:00:00.0000000+05:30
+    type: DateTime
+  eventlocation:
+    value: '   Conference Hall 1'
+    type: ShortText
+  eventimage:
+    value:
+    - >-
+      {
+        "type": "Link",
+        "relatedType": "Media",
+        "id": "UhZMrKuiLkGLK9wfiLJn9g",
+        "uri": "http://content-api-weu.sitecorecloud.io/api/content/v1/media/UhZMrKuiLkGLK9wfiLJn9g"
+      }
+    type: Media
+  speakerimage:
+    value:
+    - >-
+      {
+        "type": "Link",
+        "relatedType": "Media",
+        "id": "QjtChrYJhEqEVay4kJYNNA",
+        "uri": "http://content-api-weu.sitecorecloud.io/api/content/v1/media/QjtChrYJhEqEVay4kJYNNA"
+      }
+    type: Media

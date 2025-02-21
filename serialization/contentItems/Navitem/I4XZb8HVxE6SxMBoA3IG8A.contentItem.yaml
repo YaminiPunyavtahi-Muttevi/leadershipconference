@@ -1,0 +1,9 @@
+﻿id: I4XZb8HVxE6SxMBoA3IG8A
+name: About
+fields:
+  navname:
+    value: About
+    type: ShortText
+  navlink:
+    value: /page#section_2
+    type: ShortText

@@ -1,0 +1,24 @@
+﻿id: VUTibTvpMECmC_SsmxtZ0w
+name: Early Bird
+fields:
+  pricetitle:
+    value: Early Bird
+    type: ShortText
+  price:
+    value: $640
+    type: ShortText
+  icontext:
+    value: All-Day Coffee + Snacks
+    type: ShortText
+  icontitle:
+    value: After Party
+    type: ShortText
+  iconcomment:
+    value: 24/7 Support
+    type: ShortText
+  pricedescription:
+    value: Quick group meetings for multiple teams
+    type: LongText
+  buttontext:
+    value: Buy Tickets
+    type: ShortText

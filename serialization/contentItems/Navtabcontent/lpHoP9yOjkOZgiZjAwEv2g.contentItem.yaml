@@ -1,0 +1,41 @@
+﻿id: lpHoP9yOjkOZgiZjAwEv2g
+name: After Party at the fullest
+fields:
+  tabtext:
+    value: After Party at the fullest
+    type: ShortText
+  tabdescription:
+    value: Quisque mollis, ante non semper ultricies, nulla sapien sollicitudin augue, id scelerisque nunc turpis nec urna.
+    type: LongText
+  speakertext:
+    value: Samantha
+    type: ShortText
+  speakertitle:
+    value: Event Manager
+    type: ShortText
+  eventtime:
+    value: 2023-08-25T15:00:00.0000000+05:30
+    type: DateTime
+  eventlocation:
+    value: '     Conference Hall 2'
+    type: ShortText
+  eventimage:
+    value:
+    - >-
+      {
+        "type": "Link",
+        "relatedType": "Media",
+        "id": "IN1U5WQqG0i7F3z3URAFow",
+        "uri": "http://content-api-weu.sitecorecloud.io/api/content/v1/media/IN1U5WQqG0i7F3z3URAFow"
+      }
+    type: Media
+  speakerimage:
+    value:
+    - >-
+      {
+        "type": "Link",
+        "relatedType": "Media",
+        "id": "QjtChrYJhEqEVay4kJYNNA",
+        "uri": "http://content-api-weu.sitecorecloud.io/api/content/v1/media/QjtChrYJhEqEVay4kJYNNA"
+      }
+    type: Media

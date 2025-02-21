@@ -1,0 +1,13 @@
+﻿id: socialicon
+name:
+  en-US: Socialicon
+description:
+  en-US: ''
+fields:
+- id: sociallink
+  name:
+    en-US: SocialLink
+  type: ShortText
+  required: false
+  helpText:
+    en-US: ''

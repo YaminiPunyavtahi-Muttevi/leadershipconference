@@ -1,0 +1,9 @@
+﻿id: bkHJ9k3IREaVka4l_92sjQ
+name: Day Four
+fields:
+  navtext:
+    value: Day Two - Session Two
+    type: ShortText
+  navdate:
+    value: 2023-08-25T14:00:00.0000000+05:30
+    type: DateTime

@@ -1,0 +1,6 @@
+﻿id: Z8ipStyfRk6S_2hsrL3E2g
+name: Twitter
+fields:
+  sociallink:
+    value: https://www.twitter.com/
+    type: ShortText

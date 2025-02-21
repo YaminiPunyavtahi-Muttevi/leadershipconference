@@ -1,0 +1,69 @@
+﻿id: page
+name:
+  en-US: page
+description:
+  en-US: ''
+fields:
+- id: header
+  name:
+    en-US: Header
+  type: Reference
+  required: false
+  helpText:
+    en-US: ''
+- id: video
+  name:
+    en-US: Video
+  type: Reference
+  required: false
+  helpText:
+    en-US: ''
+- id: about
+  name:
+    en-US: About
+  type: Reference
+  required: false
+  helpText:
+    en-US: ''
+- id: speakers
+  name:
+    en-US: Speakers
+  type: Reference
+  required: false
+  helpText:
+    en-US: ''
+- id: tabs
+  name:
+    en-US: Tabs
+  type: Reference
+  required: false
+  helpText:
+    en-US: ''
+- id: promo
+  name:
+    en-US: Promo
+  type: Reference
+  required: false
+  helpText:
+    en-US: ''
+- id: tickets
+  name:
+    en-US: Tickets
+  type: Reference
+  required: false
+  helpText:
+    en-US: ''
+- id: venue
+  name:
+    en-US: Venue
+  type: Reference
+  required: false
+  helpText:
+    en-US: ''
+- id: footer
+  name:
+    en-US: Footer
+  type: Reference
+  required: false
+  helpText:
+    en-US: ''

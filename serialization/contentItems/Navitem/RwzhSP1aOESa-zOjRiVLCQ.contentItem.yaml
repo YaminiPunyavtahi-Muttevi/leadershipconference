@@ -1,0 +1,9 @@
+﻿id: RwzhSP1aOESa-zOjRiVLCQ
+name: Schedules
+fields:
+  navname:
+    value: Schedules
+    type: ShortText
+  navlink:
+    value: /page#section_4
+    type: ShortText

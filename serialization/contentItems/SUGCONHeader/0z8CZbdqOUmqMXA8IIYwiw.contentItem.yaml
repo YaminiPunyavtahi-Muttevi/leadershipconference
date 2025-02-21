@@ -1,0 +1,55 @@
+﻿id: 0z8CZbdqOUmqMXA8IIYwiw
+name: Header for SUGCON
+fields:
+  navigation:
+    value:
+    - >-
+      {
+        "type": "Link",
+        "relatedType": "Content",
+        "id": "dENAE5VxO0CWm8TjxV_0sQ",
+        "uri": "http://content-api-weu.sitecorecloud.io/api/content/v1/items/dENAE5VxO0CWm8TjxV_0sQ"
+      }
+    - >-
+      {
+        "type": "Link",
+        "relatedType": "Content",
+        "id": "I4XZb8HVxE6SxMBoA3IG8A",
+        "uri": "http://content-api-weu.sitecorecloud.io/api/content/v1/items/I4XZb8HVxE6SxMBoA3IG8A"
+      }
+    - >-
+      {
+        "type": "Link",
+        "relatedType": "Content",
+        "id": "FYPMFf2MLkydBnpywNCFuw",
+        "uri": "http://content-api-weu.sitecorecloud.io/api/content/v1/items/FYPMFf2MLkydBnpywNCFuw"
+      }
+    - >-
+      {
+        "type": "Link",
+        "relatedType": "Content",
+        "id": "RwzhSP1aOESa-zOjRiVLCQ",
+        "uri": "http://content-api-weu.sitecorecloud.io/api/content/v1/items/RwzhSP1aOESa-zOjRiVLCQ"
+      }
+    - >-
+      {
+        "type": "Link",
+        "relatedType": "Content",
+        "id": "-nHRoS4-tEyPSF6sq6xK6A",
+        "uri": "http://content-api-weu.sitecorecloud.io/api/content/v1/items/-nHRoS4-tEyPSF6sq6xK6A"
+      }
+    - >-
+      {
+        "type": "Link",
+        "relatedType": "Content",
+        "id": "BfMcjfOmTkCQiOtsSLCm4A",
+        "uri": "http://content-api-weu.sitecorecloud.io/api/content/v1/items/BfMcjfOmTkCQiOtsSLCm4A"
+      }
+    - >-
+      {
+        "type": "Link",
+        "relatedType": "Content",
+        "id": "e-HM5LDGHU-kCZC21Yl6hg",
+        "uri": "http://content-api-weu.sitecorecloud.io/api/content/v1/items/e-HM5LDGHU-kCZC21Yl6hg"
+      }
+    type: Reference

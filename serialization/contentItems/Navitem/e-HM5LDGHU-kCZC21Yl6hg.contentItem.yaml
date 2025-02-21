@@ -1,0 +1,9 @@
+﻿id: e-HM5LDGHU-kCZC21Yl6hg
+name: Contact
+fields:
+  navname:
+    value: Contact
+    type: ShortText
+  navlink:
+    value: /page#section_7
+    type: ShortText

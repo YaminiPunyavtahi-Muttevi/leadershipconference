@@ -1,0 +1,13 @@
+﻿id: webpage
+name:
+  en-US: WebPage
+description:
+  en-US: ''
+fields:
+- id: title
+  name:
+    en-US: Title
+  type: ShortText
+  required: false
+  helpText:
+    en-US: ''

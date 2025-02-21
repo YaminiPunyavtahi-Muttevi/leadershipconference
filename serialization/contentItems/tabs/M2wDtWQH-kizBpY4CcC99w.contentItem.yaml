@@ -1,0 +1,93 @@
+﻿id: M2wDtWQH-kizBpY4CcC99w
+name: Schedules
+fields:
+  navtabs:
+    value:
+    - >-
+      {
+        "type": "Link",
+        "relatedType": "Content",
+        "id": "MU8vyb7N3U6xcXNowzIsUw",
+        "uri": "http://content-api-weu.sitecorecloud.io/api/content/v1/items/MU8vyb7N3U6xcXNowzIsUw"
+      }
+    - >-
+      {
+        "type": "Link",
+        "relatedType": "Content",
+        "id": "zAOR0RjP60SJewSrABNrLg",
+        "uri": "http://content-api-weu.sitecorecloud.io/api/content/v1/items/zAOR0RjP60SJewSrABNrLg"
+      }
+    - >-
+      {
+        "type": "Link",
+        "relatedType": "Content",
+        "id": "-LMsYyAOt028zUoK7Aj6JQ",
+        "uri": "http://content-api-weu.sitecorecloud.io/api/content/v1/items/-LMsYyAOt028zUoK7Aj6JQ"
+      }
+    - >-
+      {
+        "type": "Link",
+        "relatedType": "Content",
+        "id": "bkHJ9k3IREaVka4l_92sjQ",
+        "uri": "http://content-api-weu.sitecorecloud.io/api/content/v1/items/bkHJ9k3IREaVka4l_92sjQ"
+      }
+    type: Reference
+  navtabscontent:
+    value:
+    - >-
+      {
+        "type": "Link",
+        "relatedType": "Content",
+        "id": "yGAN5pWmOkSk0qqTHp8MjQ",
+        "uri": "http://content-api-weu.sitecorecloud.io/api/content/v1/items/yGAN5pWmOkSk0qqTHp8MjQ"
+      }
+    - >-
+      {
+        "type": "Link",
+        "relatedType": "Content",
+        "id": "WNKcn6vR_keTyi3sKLaDUw",
+        "uri": "http://content-api-weu.sitecorecloud.io/api/content/v1/items/WNKcn6vR_keTyi3sKLaDUw"
+      }
+    - >-
+      {
+        "type": "Link",
+        "relatedType": "Content",
+        "id": "3PJaswylO0ae7HyCEdMprA",
+        "uri": "http://content-api-weu.sitecorecloud.io/api/content/v1/items/3PJaswylO0ae7HyCEdMprA"
+      }
+    - >-
+      {
+        "type": "Link",
+        "relatedType": "Content",
+        "id": "P8Htb_QC70yWrrdkoDMUBg",
+        "uri": "http://content-api-weu.sitecorecloud.io/api/content/v1/items/P8Htb_QC70yWrrdkoDMUBg"
+      }
+    - >-
+      {
+        "type": "Link",
+        "relatedType": "Content",
+        "id": "n9_7ngQceka9Q60gFuwTGg",
+        "uri": "http://content-api-weu.sitecorecloud.io/api/content/v1/items/n9_7ngQceka9Q60gFuwTGg"
+      }
+    - >-
+      {
+        "type": "Link",
+        "relatedType": "Content",
+        "id": "2AVjO-XARUq0dDhsdeZiWg",
+        "uri": "http://content-api-weu.sitecorecloud.io/api/content/v1/items/2AVjO-XARUq0dDhsdeZiWg"
+      }
+    - >-
+      {
+        "type": "Link",
+        "relatedType": "Content",
+        "id": "UBrMwWsthEuK_U5llG4_5Q",
+        "uri": "http://content-api-weu.sitecorecloud.io/api/content/v1/items/UBrMwWsthEuK_U5llG4_5Q"
+      }
+    - >-
+      {
+        "type": "Link",
+        "relatedType": "Content",
+        "id": "lpHoP9yOjkOZgiZjAwEv2g",
+        "uri": "http://content-api-weu.sitecorecloud.io/api/content/v1/items/lpHoP9yOjkOZgiZjAwEv2g"
+      }
+    type: Reference

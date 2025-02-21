@@ -1,0 +1,27 @@
+﻿id: video
+name:
+  en-US: Video
+description:
+  en-US: ''
+fields:
+- id: videotitle
+  name:
+    en-US: VideoTitle
+  type: ShortText
+  required: false
+  helpText:
+    en-US: ''
+- id: videoimage
+  name:
+    en-US: VideoImage
+  type: Media
+  required: false
+  helpText:
+    en-US: ''
+- id: videolink
+  name:
+    en-US: VideoLink
+  type: ShortText
+  required: false
+  helpText:
+    en-US: ''

@@ -1,0 +1,9 @@
+﻿id: dENAE5VxO0CWm8TjxV_0sQ
+name: Home
+fields:
+  navname:
+    value: Home
+    type: ShortText
+  navlink:
+    value: /page#section_1
+    type: ShortText

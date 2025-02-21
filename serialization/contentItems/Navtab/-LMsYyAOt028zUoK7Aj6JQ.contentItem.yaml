@@ -1,0 +1,9 @@
+﻿id: -LMsYyAOt028zUoK7Aj6JQ
+name: Day Three
+fields:
+  navtext:
+    value: Day Two - Session One
+    type: ShortText
+  navdate:
+    value: 2023-08-25T10:00:00.0000000+05:30
+    type: DateTime

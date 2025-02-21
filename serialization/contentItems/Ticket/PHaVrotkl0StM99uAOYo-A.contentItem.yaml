@@ -1,0 +1,24 @@
+﻿id: PHaVrotkl0StM99uAOYo-A
+name: Platinum
+fields:
+  pricetitle:
+    value: Platinum
+    type: ShortText
+  price:
+    value: $1,240
+    type: ShortText
+  icontext:
+    value: Cashback $200
+    type: ShortText
+  icontitle:
+    value: Private Meetings + After Party
+    type: ShortText
+  iconcomment:
+    value: 24/7 Support + Instant Chats
+    type: ShortText
+  pricedescription:
+    value: group talks and private chats for multiple teams.
+    type: LongText
+  buttontext:
+    value: Buy Tickets
+    type: ShortText

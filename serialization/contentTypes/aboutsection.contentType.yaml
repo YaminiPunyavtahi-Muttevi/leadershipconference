@@ -1,0 +1,41 @@
+﻿id: aboutsection
+name:
+  en-US: AboutSection
+description:
+  en-US: ''
+fields:
+- id: title
+  name:
+    en-US: Title
+  type: ShortText
+  required: false
+  helpText:
+    en-US: ''
+- id: description
+  name:
+    en-US: Description
+  type: LongText
+  required: false
+  helpText:
+    en-US: ''
+- id: shortdescription
+  name:
+    en-US: ShortDescription
+  type: LongText
+  required: false
+  helpText:
+    en-US: ''
+- id: images
+  name:
+    en-US: Images
+  type: Media
+  required: false
+  helpText:
+    en-US: ''
+- id: text
+  name:
+    en-US: Text
+  type: ShortText
+  required: false
+  helpText:
+    en-US: ''

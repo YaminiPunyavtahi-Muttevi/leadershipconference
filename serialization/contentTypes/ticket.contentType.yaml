@@ -1,0 +1,55 @@
+﻿id: ticket
+name:
+  en-US: Ticket
+description:
+  en-US: ''
+fields:
+- id: pricetitle
+  name:
+    en-US: PriceTitle
+  type: ShortText
+  required: false
+  helpText:
+    en-US: ''
+- id: price
+  name:
+    en-US: Price
+  type: ShortText
+  required: false
+  helpText:
+    en-US: ''
+- id: icontext
+  name:
+    en-US: IconText
+  type: ShortText
+  required: false
+  helpText:
+    en-US: ''
+- id: icontitle
+  name:
+    en-US: IconTitle
+  type: ShortText
+  required: false
+  helpText:
+    en-US: ''
+- id: iconcomment
+  name:
+    en-US: IconComment
+  type: ShortText
+  required: false
+  helpText:
+    en-US: ''
+- id: pricedescription
+  name:
+    en-US: PriceDescription
+  type: LongText
+  required: false
+  helpText:
+    en-US: ''
+- id: buttontext
+  name:
+    en-US: ButtonText
+  type: ShortText
+  required: false
+  helpText:
+    en-US: ''

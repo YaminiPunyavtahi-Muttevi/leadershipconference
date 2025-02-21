@@ -1,0 +1,6 @@
+﻿id: 3NSCgoKbIEKpkcdXqaUl3g
+name: Page
+fields:
+  title:
+    value: This is a sample webpage.
+    type: ShortText

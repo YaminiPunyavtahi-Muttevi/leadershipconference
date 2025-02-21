@@ -1,0 +1,41 @@
+﻿id: P8Htb_QC70yWrrdkoDMUBg
+name: Community reach programs
+fields:
+  tabtext:
+    value: Building a community
+    type: ShortText
+  tabdescription:
+    value: Quisque mollis, ante non semper ultricies, nulla sapien sollicitudin augue, id scelerisque nunc turpis nec urna. Class aptent taciti sociosqu ad litora torquent per conubia.
+    type: LongText
+  speakertext:
+    value: Tamas Varga
+    type: ShortText
+  speakertitle:
+    value: Director, Community Programs
+    type: ShortText
+  eventtime:
+    value: 2023-08-24T15:00:00.0000000+05:30
+    type: DateTime
+  eventlocation:
+    value: ' Conference Hall 2'
+    type: ShortText
+  eventimage:
+    value:
+    - >-
+      {
+        "type": "Link",
+        "relatedType": "Media",
+        "id": "UhZMrKuiLkGLK9wfiLJn9g",
+        "uri": "http://content-api-weu.sitecorecloud.io/api/content/v1/media/UhZMrKuiLkGLK9wfiLJn9g"
+      }
+    type: Media
+  speakerimage:
+    value:
+    - >-
+      {
+        "type": "Link",
+        "relatedType": "Media",
+        "id": "ODRWcpSfq02lrnD472OApQ",
+        "uri": "http://content-api-weu.sitecorecloud.io/api/content/v1/media/ODRWcpSfq02lrnD472OApQ"
+      }
+    type: Media

@@ -1,0 +1,27 @@
+﻿id: fmAHhZSOVE2QRDJUHtAJzA
+name: Video Section
+fields:
+  highlightssection:
+    value:
+    - >-
+      {
+        "type": "Link",
+        "relatedType": "Content",
+        "id": "_xir5gGWqEqG221M7FWcKg",
+        "uri": "http://content-api-weu.sitecorecloud.io/api/content/v1/items/_xir5gGWqEqG221M7FWcKg"
+      }
+    - >-
+      {
+        "type": "Link",
+        "relatedType": "Content",
+        "id": "mg7qobaT1kSMMgim9LmSRw",
+        "uri": "http://content-api-weu.sitecorecloud.io/api/content/v1/items/mg7qobaT1kSMMgim9LmSRw"
+      }
+    - >-
+      {
+        "type": "Link",
+        "relatedType": "Content",
+        "id": "gRQKSV6TgEq1jMQNq2dofw",
+        "uri": "http://content-api-weu.sitecorecloud.io/api/content/v1/items/gRQKSV6TgEq1jMQNq2dofw"
+      }
+    type: Reference

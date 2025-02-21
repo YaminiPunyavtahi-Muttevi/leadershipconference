@@ -1,0 +1,13 @@
+﻿id: sugconheader
+name:
+  en-US: SUGCONHeader
+description:
+  en-US: ''
+fields:
+- id: navigation
+  name:
+    en-US: Navigation
+  type: Reference
+  required: false
+  helpText:
+    en-US: ''

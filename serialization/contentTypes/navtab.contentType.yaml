@@ -1,0 +1,20 @@
+﻿id: navtab
+name:
+  en-US: Navtab
+description:
+  en-US: ''
+fields:
+- id: navtext
+  name:
+    en-US: navtext
+  type: ShortText
+  required: false
+  helpText:
+    en-US: ''
+- id: navdate
+  name:
+    en-US: navdate
+  type: DateTime
+  required: false
+  helpText:
+    en-US: ''

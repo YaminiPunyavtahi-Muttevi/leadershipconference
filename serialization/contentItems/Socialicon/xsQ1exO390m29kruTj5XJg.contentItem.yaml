@@ -1,0 +1,6 @@
+﻿id: xsQ1exO390m29kruTj5XJg
+name: Facebook
+fields:
+  sociallink:
+    value: https://www.facebook.com/
+    type: ShortText

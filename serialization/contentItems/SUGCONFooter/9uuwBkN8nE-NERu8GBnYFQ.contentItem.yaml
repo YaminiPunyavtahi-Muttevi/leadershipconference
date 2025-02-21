@@ -1,0 +1,75 @@
+﻿id: 9uuwBkN8nE-NERu8GBnYFQ
+name: Footer
+fields:
+  copyrighttext:
+    value: Copyright © 2023 SUGCON INDIA
+    type: LongText
+  sociallinks:
+    value:
+    - >-
+      {
+        "type": "Link",
+        "relatedType": "Content",
+        "id": "ED1zyljKhUuBZfK3c9kp0g",
+        "uri": "http://content-api-weu.sitecorecloud.io/api/content/v1/items/ED1zyljKhUuBZfK3c9kp0g"
+      }
+    - >-
+      {
+        "type": "Link",
+        "relatedType": "Content",
+        "id": "xsQ1exO390m29kruTj5XJg",
+        "uri": "http://content-api-weu.sitecorecloud.io/api/content/v1/items/xsQ1exO390m29kruTj5XJg"
+      }
+    - >-
+      {
+        "type": "Link",
+        "relatedType": "Content",
+        "id": "Z8ipStyfRk6S_2hsrL3E2g",
+        "uri": "http://content-api-weu.sitecorecloud.io/api/content/v1/items/Z8ipStyfRk6S_2hsrL3E2g"
+      }
+    type: Reference
+  menuitems:
+    value:
+    - >-
+      {
+        "type": "Link",
+        "relatedType": "Content",
+        "id": "I4XZb8HVxE6SxMBoA3IG8A",
+        "uri": "http://content-api-weu.sitecorecloud.io/api/content/v1/items/I4XZb8HVxE6SxMBoA3IG8A"
+      }
+    - >-
+      {
+        "type": "Link",
+        "relatedType": "Content",
+        "id": "FYPMFf2MLkydBnpywNCFuw",
+        "uri": "http://content-api-weu.sitecorecloud.io/api/content/v1/items/FYPMFf2MLkydBnpywNCFuw"
+      }
+    - >-
+      {
+        "type": "Link",
+        "relatedType": "Content",
+        "id": "RwzhSP1aOESa-zOjRiVLCQ",
+        "uri": "http://content-api-weu.sitecorecloud.io/api/content/v1/items/RwzhSP1aOESa-zOjRiVLCQ"
+      }
+    - >-
+      {
+        "type": "Link",
+        "relatedType": "Content",
+        "id": "-nHRoS4-tEyPSF6sq6xK6A",
+        "uri": "http://content-api-weu.sitecorecloud.io/api/content/v1/items/-nHRoS4-tEyPSF6sq6xK6A"
+      }
+    - >-
+      {
+        "type": "Link",
+        "relatedType": "Content",
+        "id": "BfMcjfOmTkCQiOtsSLCm4A",
+        "uri": "http://content-api-weu.sitecorecloud.io/api/content/v1/items/BfMcjfOmTkCQiOtsSLCm4A"
+      }
+    - >-
+      {
+        "type": "Link",
+        "relatedType": "Content",
+        "id": "e-HM5LDGHU-kCZC21Yl6hg",
+        "uri": "http://content-api-weu.sitecorecloud.io/api/content/v1/items/e-HM5LDGHU-kCZC21Yl6hg"
+      }
+    type: Reference

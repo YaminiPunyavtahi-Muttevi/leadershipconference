@@ -1,0 +1,107 @@
+﻿id: y3Nnz6_FGk-sDSdq1ik9NQ
+name: page
+fields:
+  header:
+    value:
+    - >-
+      {
+        "type": "Link",
+        "relatedType": "Content",
+        "id": "0z8CZbdqOUmqMXA8IIYwiw",
+        "uri": "http://content-api-weu.sitecorecloud.io/api/content/v1/items/0z8CZbdqOUmqMXA8IIYwiw"
+      }
+    type: Reference
+  video:
+    value:
+    - >-
+      {
+        "type": "Link",
+        "relatedType": "Content",
+        "id": "fmAHhZSOVE2QRDJUHtAJzA",
+        "uri": "http://content-api-weu.sitecorecloud.io/api/content/v1/items/fmAHhZSOVE2QRDJUHtAJzA"
+      }
+    type: Reference
+  about:
+    value:
+    - >-
+      {
+        "type": "Link",
+        "relatedType": "Content",
+        "id": "mbUwEQ-yZUSum8v4zxhKXQ",
+        "uri": "http://content-api-weu.sitecorecloud.io/api/content/v1/items/mbUwEQ-yZUSum8v4zxhKXQ"
+      }
+    type: Reference
+  speakers:
+    value:
+    - >-
+      {
+        "type": "Link",
+        "relatedType": "Content",
+        "id": "QXqiX2vN-U2PYc9KKTkl9A",
+        "uri": "http://content-api-weu.sitecorecloud.io/api/content/v1/items/QXqiX2vN-U2PYc9KKTkl9A"
+      }
+    type: Reference
+  promo:
+    value:
+    - >-
+      {
+        "type": "Link",
+        "relatedType": "Content",
+        "id": "b8A-pza5MUKsTgQoopFagA",
+        "uri": "http://content-api-weu.sitecorecloud.io/api/content/v1/items/b8A-pza5MUKsTgQoopFagA"
+      }
+    type: Reference
+  tickets:
+    value:
+    - >-
+      {
+        "type": "Link",
+        "relatedType": "Content",
+        "id": "VUTibTvpMECmC_SsmxtZ0w",
+        "uri": "http://content-api-weu.sitecorecloud.io/api/content/v1/items/VUTibTvpMECmC_SsmxtZ0w"
+      }
+    - >-
+      {
+        "type": "Link",
+        "relatedType": "Content",
+        "id": "LynBiH3nSECsKEEqwRWjpg",
+        "uri": "http://content-api-weu.sitecorecloud.io/api/content/v1/items/LynBiH3nSECsKEEqwRWjpg"
+      }
+    - >-
+      {
+        "type": "Link",
+        "relatedType": "Content",
+        "id": "PHaVrotkl0StM99uAOYo-A",
+        "uri": "http://content-api-weu.sitecorecloud.io/api/content/v1/items/PHaVrotkl0StM99uAOYo-A"
+      }
+    type: Reference
+  venue:
+    value:
+    - >-
+      {
+        "type": "Link",
+        "relatedType": "Content",
+        "id": "EzPgPVJ0WECtPX_0NEnshQ",
+        "uri": "http://content-api-weu.sitecorecloud.io/api/content/v1/items/EzPgPVJ0WECtPX_0NEnshQ"
+      }
+    type: Reference
+  footer:
+    value:
+    - >-
+      {
+        "type": "Link",
+        "relatedType": "Content",
+        "id": "9uuwBkN8nE-NERu8GBnYFQ",
+        "uri": "http://content-api-weu.sitecorecloud.io/api/content/v1/items/9uuwBkN8nE-NERu8GBnYFQ"
+      }
+    type: Reference
+  tabs:
+    value:
+    - >-
+      {
+        "type": "Link",
+        "relatedType": "Content",
+        "id": "M2wDtWQH-kizBpY4CcC99w",
+        "uri": "http://content-api-weu.sitecorecloud.io/api/content/v1/items/M2wDtWQH-kizBpY4CcC99w"
+      }
+    type: Reference

@@ -1,0 +1,27 @@
+﻿id: sugconfooter
+name:
+  en-US: SUGCONFooter
+description:
+  en-US: ''
+fields:
+- id: sociallinks
+  name:
+    en-US: SocialLinks
+  type: Reference
+  required: false
+  helpText:
+    en-US: ''
+- id: menuitems
+  name:
+    en-US: MenuItems
+  type: Reference
+  required: false
+  helpText:
+    en-US: ''
+- id: copyrighttext
+  name:
+    en-US: CopyRightText
+  type: LongText
+  required: false
+  helpText:
+    en-US: ''

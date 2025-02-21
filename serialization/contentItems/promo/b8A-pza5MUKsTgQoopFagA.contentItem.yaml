@@ -1,0 +1,12 @@
+﻿id: b8A-pza5MUKsTgQoopFagA
+name: SpeakerPromo
+fields:
+  promotitle:
+    value: Become an event speaker?
+    type: ShortText
+  promodescription:
+    value: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut dolore
+    type: LongText
+  promobuttontext:
+    value: Register Today
+    type: ShortText

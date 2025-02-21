@@ -1,0 +1,53 @@
+﻿id: QXqiX2vN-U2PYc9KKTkl9A
+name: OurSpeakers
+fields:
+  text:
+    value: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut dolore.
+    type: LongText
+  speakertitle:
+    value: Steve Stathis Tzikakis
+    type: ShortText
+  speakertext:
+    value: Chief Executive Officer
+    type: ShortText
+  featurecards:
+    value:
+    - >-
+      {
+        "type": "Link",
+        "relatedType": "Content",
+        "id": "5KRjKWEEK0CneA4mut7I2Q",
+        "uri": "http://content-api-weu.sitecorecloud.io/api/content/v1/items/5KRjKWEEK0CneA4mut7I2Q"
+      }
+    - >-
+      {
+        "type": "Link",
+        "relatedType": "Content",
+        "id": "_8CcFBLdb0WpZczSccX1eg",
+        "uri": "http://content-api-weu.sitecorecloud.io/api/content/v1/items/_8CcFBLdb0WpZczSccX1eg"
+      }
+    - >-
+      {
+        "type": "Link",
+        "relatedType": "Content",
+        "id": "VGIHmdGYY0m76fSDZTIy8g",
+        "uri": "http://content-api-weu.sitecorecloud.io/api/content/v1/items/VGIHmdGYY0m76fSDZTIy8g"
+      }
+    - >-
+      {
+        "type": "Link",
+        "relatedType": "Content",
+        "id": "jx9DYiU2sESZGT9BYr8o4A",
+        "uri": "http://content-api-weu.sitecorecloud.io/api/content/v1/items/jx9DYiU2sESZGT9BYr8o4A"
+      }
+    type: Reference
+  image:
+    value:
+    - >-
+      {
+        "type": "Link",
+        "relatedType": "Media",
+        "id": "eNhXupemcUWf1MqSlHEr6w",
+        "uri": "http://content-api-weu.sitecorecloud.io/api/content/v1/media/eNhXupemcUWf1MqSlHEr6w"
+      }
+    type: Media

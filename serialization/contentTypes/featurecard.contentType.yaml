@@ -1,0 +1,27 @@
+﻿id: featurecard
+name:
+  en-US: FeatureCard
+description:
+  en-US: ''
+fields:
+- id: featureimage
+  name:
+    en-US: FeatureImage
+  type: Media
+  required: false
+  helpText:
+    en-US: ''
+- id: featuretitle
+  name:
+    en-US: FeatureTitle
+  type: ShortText
+  required: false
+  helpText:
+    en-US: ''
+- id: featuretext
+  name:
+    en-US: FeatureText
+  type: ShortText
+  required: false
+  helpText:
+    en-US: ''

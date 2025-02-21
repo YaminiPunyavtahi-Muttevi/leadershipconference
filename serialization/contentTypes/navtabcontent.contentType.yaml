@@ -1,0 +1,62 @@
+﻿id: navtabcontent
+name:
+  en-US: Navtabcontent
+description:
+  en-US: ''
+fields:
+- id: eventimage
+  name:
+    en-US: eventimage
+  type: Media
+  required: false
+  helpText:
+    en-US: ''
+- id: tabtext
+  name:
+    en-US: tabtext
+  type: ShortText
+  required: false
+  helpText:
+    en-US: ''
+- id: tabdescription
+  name:
+    en-US: tabdescription
+  type: LongText
+  required: false
+  helpText:
+    en-US: ''
+- id: speakertext
+  name:
+    en-US: speakertext
+  type: ShortText
+  required: false
+  helpText:
+    en-US: ''
+- id: speakerimage
+  name:
+    en-US: speakerimage
+  type: Media
+  required: false
+  helpText:
+    en-US: ''
+- id: speakertitle
+  name:
+    en-US: speakertitle
+  type: ShortText
+  required: false
+  helpText:
+    en-US: ''
+- id: eventtime
+  name:
+    en-US: eventtime
+  type: DateTime
+  required: false
+  helpText:
+    en-US: ''
+- id: eventlocation
+  name:
+    en-US: eventlocation
+  type: ShortText
+  required: false
+  helpText:
+    en-US: ''
