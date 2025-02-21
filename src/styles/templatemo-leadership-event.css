@@ -1053,3 +1053,19 @@ strong {
   }
 }
 
+/* styles/ChatbotEmbed.module.css */
+.chatbotContainer {
+  position: relative;
+  width: 100%;
+  height: 500px; /* Adjust the height or make it dynamic */
+  border-radius: 8px; /* Round corners */
+  overflow: hidden; /* Ensures iframe stays within the rounded container */
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1); /* Subtle shadow for depth */
+}
+
+.chatbotIframe {
+  width: 100%; /* Make it responsive */
+  height: 100%;
+  border: none; /* No border around the iframe */
+  display: block; /* Removes any extra space below the iframe */
+}

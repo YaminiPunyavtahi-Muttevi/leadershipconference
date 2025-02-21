@@ -16,6 +16,7 @@ import VenueComponent from "@/components/venue-component";
 import SUGCONFooter from "@/components/footer-component";
 import Script from "next/script";
 import TabsComponent from "@/components/tabs-component";
+import ChatbotEmbed from "@/components/ChatbotEmbed";
 
 export async function getStaticProps({ preview = false}){
     const allPage = await getAllPage(preview);
@@ -91,8 +92,9 @@ export async function getStaticProps({ preview = false}){
                 </div>
             </section>
         <SUGCONFooter allFooters={page.footer}/>
-
+        <ChatbotEmbed/> 
       </main>
+
       </>
   
       
